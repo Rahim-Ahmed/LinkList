@@ -1,2 +1,2 @@
-<h3>simple LinkList <br>
-Simple Queue using array</h3>
+<h3>Simple LinkList [data Insert and delete]  <br>
+Simple Queue using Array</h3>
