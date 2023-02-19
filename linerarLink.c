@@ -41,7 +41,7 @@ void search(struct node *head,int data){
 
     struct node *ptr=head;
     while(ptr!=NULL){
-            if(ptr->data==data){
+            if(ptr->data==data){git
                     printf("\n item Found");
                     printf("\n the position of %d is in %d",data,c+1);
                     b++;
